@@ -24,6 +24,10 @@ Launch Godot Engine, select the project and go !
     Left arrow - Move snake left
     Right arrow - Move snake right
 
+### Possible improvements
+
+- Add of a score
+- Add of a menu when executing the game composed of "Play - Credits - Music - Help"
 
 # Contributing Allowed
 
