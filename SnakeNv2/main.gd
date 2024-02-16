@@ -1,4 +1,21 @@
 """
+> SNAKE MINIMALIST 
+
+> GROUP :
+-  Nathan 
+-  Raphaël 
+
+> SNAKE
+Game grid consisting of 21x21 squares (being 25x25 in size), 
+with a border around it of the same size as one square.
+
+> CONTROLS :
+- Use the arrow keys to move the snake around the grid
+  Up
+  Down
+  Left 
+  Right
+
 > PROJET FINAL SNAKE - Programmation sur les moteurs de jeux
 
 > GROUP :
